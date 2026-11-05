@@ -28,7 +28,3 @@ This repository contains the first version of the WebStudio landing page, focuse
 - navigation and contact links;
 - image markup and accessibility attributes;
 - organizing a multi-section landing page.
-
-## Live Demo
-
-[Open GitHub Pages](https://dashakim2209.github.io/goit-markup-hw-01/)
